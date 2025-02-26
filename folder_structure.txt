@@ -1,0 +1,59 @@
+.
+├── CMakeLists.txt
+├── cmake-build-debug
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.29.6
+│   │   │   ├── CMakeCCompiler.cmake
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_C.bin
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   ├── CompilerIdC
+│   │   │   │   ├── CMakeCCompilerId.c
+│   │   │   │   ├── CMakeCCompilerId.o
+│   │   │   │   └── tmp
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       ├── CMakeCXXCompilerId.o
+│   │   │       └── tmp
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── CMakeScratch
+│   │   ├── ProzeduralerBaum.dir
+│   │   │   └── src
+│   │   │       ├── DataBuffer.cpp.o
+│   │   │       ├── ShaderModule.cpp.o
+│   │   │       ├── ShaderPipeline.cpp.o
+│   │   │       ├── VertexBuffer.cpp.o
+│   │   │       └── main.cpp.o
+│   │   ├── TargetDirectories.txt
+│   │   ├── clion-Debug-log.txt
+│   │   ├── clion-environment.txt
+│   │   ├── cmake.check_cache
+│   │   ├── pkgRedirects
+│   │   └── rules.ninja
+│   ├── ProzeduralerBaum
+│   ├── Testing
+│   │   └── Temporary
+│   │       └── LastTest.log
+│   ├── build.ninja
+│   └── cmake_install.cmake
+├── folder_structure.txt
+├── include
+│   ├── DataBuffer.h
+│   ├── ShaderModule.h
+│   ├── ShaderPipeline.h
+│   └── VertexBuffer.h
+├── shaders
+│   ├── FragmentShader.frag
+│   ├── TreeGeometryShader.geo
+│   ├── TreeVertexShader.vert
+│   └── VertexShader.vert
+└── src
+    ├── DataBuffer.cpp
+    ├── ShaderModule.cpp
+    ├── ShaderPipeline.cpp
+    ├── VertexBuffer.cpp
+    └── main.cpp
+
+17 directories, 40 files
